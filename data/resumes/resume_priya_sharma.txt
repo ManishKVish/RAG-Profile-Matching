@@ -1,0 +1,17 @@
+NAME: Priya Sharma
+TITLE: Lead DevOps & Cloud Engineer
+EXPERIENCE: 7 years
+EDUCATION: B.E. IT, BITS Pilani
+SKILLS: Kubernetes, Docker, Terraform, AWS, CI/CD, Prometheus, Python, Linux
+
+PROFESSIONAL SUMMARY:
+Enterprise multi-account AWS architectures on EKS with Terraform and automated GitHub Actions.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Kubernetes, Docker, Terraform.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

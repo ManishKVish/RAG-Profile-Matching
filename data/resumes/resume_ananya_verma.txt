@@ -1,0 +1,17 @@
+NAME: Ananya Verma
+TITLE: Frontend React & UI Engineer
+EXPERIENCE: 3 years
+EDUCATION: B.Tech CE, Delhi University
+SKILLS: React, JavaScript, HTML5, CSS3, Next.js, Redux, Figma
+
+PROFESSIONAL SUMMARY:
+Next.js web portals with 98+ Lighthouse scores and pixel-perfect design systems.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across React, JavaScript, HTML5.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

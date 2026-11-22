@@ -1,0 +1,17 @@
+NAME: Michael Brown
+TITLE: Java Spring Boot Engineer
+EXPERIENCE: 6 years
+EDUCATION: B.S. CS, UT Austin
+SKILLS: Java, Spring Boot, Microservices, Hibernate, MySQL, Docker, RabbitMQ
+
+PROFESSIONAL SUMMARY:
+Resilient enterprise banking systems with Java 17, Spring Boot, and RabbitMQ message queues.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Java, Spring Boot, Microservices.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

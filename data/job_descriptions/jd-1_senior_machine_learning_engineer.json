@@ -1,0 +1,12 @@
+{
+  "id": "jd-1",
+  "title": "Senior Machine Learning Engineer",
+  "must_have_skills": [
+    "Python",
+    "Machine Learning",
+    "PyTorch",
+    "Docker"
+  ],
+  "min_experience_years": 5,
+  "description": "We are seeking a Senior ML Engineer with 5+ years of experience in Python, PyTorch, and Docker. The ideal candidate will design, build, and deploy production machine learning models and recommendation engines on cloud platforms."
+}

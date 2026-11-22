@@ -1,0 +1,12 @@
+{
+  "id": "jd-2",
+  "title": "Lead DevOps & Cloud Engineer",
+  "must_have_skills": [
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "AWS"
+  ],
+  "min_experience_years": 5,
+  "description": "Looking for a Lead DevOps Engineer with 5+ years of expertise in Kubernetes, Docker, Terraform, and AWS. Responsible for cloud infrastructure automation, CI/CD pipeline modernization, and zero-downtime microservice orchestration."
+}

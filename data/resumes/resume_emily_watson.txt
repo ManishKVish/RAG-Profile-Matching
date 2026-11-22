@@ -1,0 +1,17 @@
+NAME: Emily Watson
+TITLE: Senior Python & FastAPI Engineer
+EXPERIENCE: 5 years
+EDUCATION: B.S. CS, UIUC
+SKILLS: Python, FastAPI, SQLAlchemy, Redis, Celery, PostgreSQL, Pytest
+
+PROFESSIONAL SUMMARY:
+High-throughput async APIs, distributed task workers with Celery/Redis, and database tuning.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, FastAPI, SQLAlchemy.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

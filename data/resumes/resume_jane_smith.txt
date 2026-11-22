@@ -1,0 +1,17 @@
+NAME: Jane Smith
+TITLE: Full Stack Software Engineer
+EXPERIENCE: 4 years
+EDUCATION: B.S. Soft Eng, UC Berkeley
+SKILLS: React, TypeScript, Node.js, Express, PostgreSQL, TailwindCSS
+
+PROFESSIONAL SUMMARY:
+Interactive single-page apps and high-performance Node.js/Express APIs with PostgreSQL.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across React, TypeScript, Node.js.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

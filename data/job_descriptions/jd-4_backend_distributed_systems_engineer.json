@@ -1,0 +1,12 @@
+{
+  "id": "jd-4",
+  "title": "Backend Distributed Systems Engineer",
+  "must_have_skills": [
+    "Python",
+    "Kafka",
+    "Distributed Systems",
+    "PostgreSQL"
+  ],
+  "min_experience_years": 5,
+  "description": "Seeking a Backend Distributed Systems Engineer with 5+ years of experience in Python, Kafka, and PostgreSQL. Must have hands-on experience building low-latency, event-driven distributed microservices."
+}

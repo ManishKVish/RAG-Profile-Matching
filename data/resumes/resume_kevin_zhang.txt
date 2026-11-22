@@ -1,0 +1,17 @@
+NAME: Kevin Zhang
+TITLE: Infrastructure Automation Engineer
+EXPERIENCE: 4 years
+EDUCATION: B.S. CS, UC San Diego
+SKILLS: Terraform, Ansible, AWS, Linux, Python, Docker
+
+PROFESSIONAL SUMMARY:
+Infrastructure as Code for automated blue-green deployments across multi-region VPCs.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Terraform, Ansible, AWS.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

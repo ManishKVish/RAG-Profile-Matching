@@ -1,0 +1,17 @@
+NAME: Sophie Martin
+TITLE: Frontend Vue.js Developer
+EXPERIENCE: 4 years
+EDUCATION: B.S. Web Dev, McGill
+SKILLS: Vue.js, Nuxt.js, JavaScript, TailwindCSS, REST APIs
+
+PROFESSIONAL SUMMARY:
+State management with Pinia, responsive mobile-first layouts, and accessible component trees.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Vue.js, Nuxt.js, JavaScript.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

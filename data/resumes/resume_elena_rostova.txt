@@ -1,0 +1,17 @@
+NAME: Elena Rostova
+TITLE: Data Scientist
+EXPERIENCE: 4 years
+EDUCATION: M.S. Statistics, NYU
+SKILLS: Python, R, Scikit-Learn, Pandas, SQL, Tableau
+
+PROFESSIONAL SUMMARY:
+Statistical modeling, customer churn forecasting, and predictive marketing algorithms.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, R, Scikit-Learn.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

@@ -1,0 +1,17 @@
+NAME: Chloe Bennett
+TITLE: Big Data Platform Engineer
+EXPERIENCE: 5 years
+EDUCATION: B.S. CS, Georgia Tech
+SKILLS: Python, Hadoop, Spark, SQL, PostgreSQL, Airflow
+
+PROFESSIONAL SUMMARY:
+Automated batch processing DAGs in Apache Airflow and relational dimensional modeling.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, Hadoop, Spark.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

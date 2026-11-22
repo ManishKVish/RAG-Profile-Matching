@@ -1,0 +1,17 @@
+NAME: Siddharth Rao
+TITLE: Database Administrator & Data Ops
+EXPERIENCE: 6 years
+EDUCATION: B.E. CS, Bangalore Univ
+SKILLS: PostgreSQL, MySQL, Python, Linux, Docker, Performance Tuning
+
+PROFESSIONAL SUMMARY:
+High-availability database clustering, index optimization, query tuning, and replication.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across PostgreSQL, MySQL, Python.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

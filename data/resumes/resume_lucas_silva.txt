@@ -1,0 +1,17 @@
+NAME: Lucas Silva
+TITLE: Full Stack MERN Developer
+EXPERIENCE: 5 years
+EDUCATION: B.S. CS, Univ of Sao Paulo
+SKILLS: MongoDB, Express, React, Node.js, TypeScript, Docker
+
+PROFESSIONAL SUMMARY:
+Full-stack SaaS platforms with real-time WebSocket dashboards and responsive UI components.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across MongoDB, Express, React.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

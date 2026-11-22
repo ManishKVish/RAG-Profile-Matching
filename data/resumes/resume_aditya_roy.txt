@@ -1,0 +1,17 @@
+NAME: Aditya Roy
+TITLE: Senior Java Cloud Architect
+EXPERIENCE: 9 years
+EDUCATION: M.Tech CS, IIT Delhi
+SKILLS: Java, Spring Cloud, Kafka, PostgreSQL, Kubernetes, AWS
+
+PROFESSIONAL SUMMARY:
+Cloud-native banking microservices architecture supporting 10,000 transactions per second.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Java, Spring Cloud, Kafka.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

@@ -1,0 +1,17 @@
+NAME: Amit Patel
+TITLE: Senior Data Engineer
+EXPERIENCE: 6 years
+EDUCATION: M.S. Data Eng, ASU
+SKILLS: Python, Apache Spark, Kafka, SQL, Snowflake, Airflow, AWS
+
+PROFESSIONAL SUMMARY:
+Petabyte-scale ETL pipelines, streaming analytics with Kafka/Spark, and Snowflake data warehouses.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, Apache Spark, Kafka.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

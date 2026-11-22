@@ -1,0 +1,12 @@
+{
+  "id": "jd-3",
+  "title": "Full Stack React & Node.js Developer",
+  "must_have_skills": [
+    "React",
+    "Node.js",
+    "TypeScript",
+    "PostgreSQL"
+  ],
+  "min_experience_years": 3,
+  "description": "Hiring a Full Stack Developer with 3+ years experience building web applications with React, TypeScript, and Node.js. Must possess strong relational database skills with PostgreSQL and modern REST API design."
+}

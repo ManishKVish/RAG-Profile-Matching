@@ -1,0 +1,17 @@
+NAME: Sneha Patil
+TITLE: Enterprise Java Engineer
+EXPERIENCE: 5 years
+EDUCATION: B.E. IT, Mumbai University
+SKILLS: Java, Spring Boot, Redis, Oracle, Docker
+
+PROFESSIONAL SUMMARY:
+Payment processing gateways, database connection pooling, and multi-threaded processing.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Java, Spring Boot, Redis.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

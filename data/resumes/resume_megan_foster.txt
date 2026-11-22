@@ -1,0 +1,17 @@
+NAME: Megan Foster
+TITLE: Streaming Pipeline Engineer
+EXPERIENCE: 5 years
+EDUCATION: B.S. CS, Michigan
+SKILLS: Kafka, Flink, Python, Java, Docker, Kubernetes
+
+PROFESSIONAL SUMMARY:
+Sub-second streaming analytics with Apache Flink and Kafka event hub architectures.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Kafka, Flink, Python.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

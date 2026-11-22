@@ -1,0 +1,17 @@
+NAME: Vikram Malhotra
+TITLE: Computer Vision Specialist
+EXPERIENCE: 4 years
+EDUCATION: B.Tech ECE, NIT Trichy
+SKILLS: Python, OpenCV, PyTorch, TensorRT, C++, Docker
+
+PROFESSIONAL SUMMARY:
+Deployed real-time edge detection and OCR inference systems for autonomous inspection.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, OpenCV, PyTorch.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

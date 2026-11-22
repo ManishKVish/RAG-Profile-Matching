@@ -1,0 +1,17 @@
+NAME: Deepak Verma
+TITLE: Kubernetes Platform Engineer
+EXPERIENCE: 5 years
+EDUCATION: B.Tech CSE, DTU
+SKILLS: Kubernetes, Helm, Istio, Docker, Prometheus, Golang
+
+PROFESSIONAL SUMMARY:
+Service mesh architecture with Istio and automated cluster scaling on Google Kubernetes Engine.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Kubernetes, Helm, Istio.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

@@ -1,0 +1,17 @@
+NAME: Marcus Vance
+TITLE: Go Microservices Developer
+EXPERIENCE: 5 years
+EDUCATION: B.S. Software Eng, Purdue
+SKILLS: Go, Docker, Kubernetes, gRPC, PostgreSQL, Redis
+
+PROFESSIONAL SUMMARY:
+High-performance microservices in Golang with protobuf/gRPC and sub-10ms P99 latencies.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Go, Docker, Kubernetes.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

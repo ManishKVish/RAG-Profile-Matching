@@ -1,0 +1,17 @@
+NAME: Rohit Joshi
+TITLE: Senior Frontend Architect
+EXPERIENCE: 7 years
+EDUCATION: B.Tech CSE, VIT Vellore
+SKILLS: React, TypeScript, Next.js, GraphQL, Webpack, TailwindCSS
+
+PROFESSIONAL SUMMARY:
+Micro-frontend architectures, performance profiling, and SSR optimization for e-commerce.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across React, TypeScript, Next.js.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

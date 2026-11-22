@@ -1,0 +1,17 @@
+NAME: Aarav Mehta
+TITLE: MLOps Engineer
+EXPERIENCE: 5 years
+EDUCATION: B.E. CSE, BITS Pilani
+SKILLS: Python, Kubeflow, MLflow, Docker, Kubernetes, AWS SageMaker
+
+PROFESSIONAL SUMMARY:
+Automated model retraining pipelines and feature store architectures on Kubernetes.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, Kubeflow, MLflow.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

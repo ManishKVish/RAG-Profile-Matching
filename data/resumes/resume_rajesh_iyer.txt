@@ -1,0 +1,17 @@
+NAME: Rajesh Iyer
+TITLE: Python Django Developer
+EXPERIENCE: 4 years
+EDUCATION: B.Tech IT, Anna University
+SKILLS: Python, Django, PostgreSQL, Celery, Docker, AWS
+
+PROFESSIONAL SUMMARY:
+Scalable multi-tenant SaaS backends with Django REST Framework and PostgreSQL partitioning.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, Django, PostgreSQL.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

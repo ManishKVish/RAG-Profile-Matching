@@ -1,0 +1,17 @@
+NAME: Ravi Shankar
+TITLE: Analytics Engineer
+EXPERIENCE: 4 years
+EDUCATION: B.Tech IT, SRM University
+SKILLS: SQL, dbt, Snowflake, Python, Looker, PostgreSQL
+
+PROFESSIONAL SUMMARY:
+Modern data stack transformations using dbt, automated data quality tests, and LookML modeling.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across SQL, dbt, Snowflake.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

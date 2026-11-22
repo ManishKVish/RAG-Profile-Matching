@@ -1,0 +1,17 @@
+NAME: Alex Chen
+TITLE: Backend Systems Architect
+EXPERIENCE: 8 years
+EDUCATION: M.S. CS, Stanford
+SKILLS: Python, Go, Distributed Systems, PostgreSQL, Kafka, Kubernetes, gRPC
+
+PROFESSIONAL SUMMARY:
+Event-driven distributed architectures processing 250k events/sec using Go, Python, and Kafka.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, Go, Distributed Systems.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

@@ -1,0 +1,17 @@
+NAME: David Miller
+TITLE: Java Backend Developer
+EXPERIENCE: 3 years
+EDUCATION: B.S. CS, Ohio State
+SKILLS: Java, Spring Boot, JPA, PostgreSQL, Maven
+
+PROFESSIONAL SUMMARY:
+CRUD services, database migrations with Flyway, and JUnit integration testing.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Java, Spring Boot, JPA.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

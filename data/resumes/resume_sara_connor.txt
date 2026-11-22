@@ -1,0 +1,17 @@
+NAME: Sara Connor
+TITLE: NLP & LLM Engineer
+EXPERIENCE: 5 years
+EDUCATION: M.S. Data Science, UW
+SKILLS: Python, NLP, Transformers, LangChain, Vector Databases, ChromaDB, PyTorch
+
+PROFESSIONAL SUMMARY:
+RAG expert fine-tuning BERT and building dense vector search pipelines for legal contracts.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, NLP, Transformers.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

@@ -1,0 +1,17 @@
+NAME: Kavita Nair
+TITLE: Java Full Stack Developer
+EXPERIENCE: 4 years
+EDUCATION: B.E. CSE, Kerala University
+SKILLS: Java, Spring Boot, Angular, TypeScript, MySQL
+
+PROFESSIONAL SUMMARY:
+Full-stack enterprise applications with Spring Boot REST backends and Angular frontends.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Java, Spring Boot, Angular.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

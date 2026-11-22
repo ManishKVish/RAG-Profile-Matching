@@ -1,0 +1,17 @@
+NAME: Tanya Sen
+TITLE: Cloud Security Engineer
+EXPERIENCE: 5 years
+EDUCATION: B.Tech CS, Jadavpur Univ
+SKILLS: AWS, Terraform, Docker, Kubernetes, Vault, IAM, Python
+
+PROFESSIONAL SUMMARY:
+DevSecOps pipelines, automated IAM least-privilege audits, and HashiCorp Vault secrets management.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across AWS, Terraform, Docker.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

@@ -1,0 +1,17 @@
+NAME: Neha Kulkarni
+TITLE: API Integration Engineer
+EXPERIENCE: 3 years
+EDUCATION: B.Tech CSE, Pune University
+SKILLS: Python, FastAPI, REST APIs, PostgreSQL, Docker
+
+PROFESSIONAL SUMMARY:
+RESTful web services, external webhook processors, and OpenAPI documentation.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, FastAPI, REST APIs.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

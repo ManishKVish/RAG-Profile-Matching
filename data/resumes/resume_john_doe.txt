@@ -1,0 +1,17 @@
+NAME: John Doe
+TITLE: Senior ML Engineer
+EXPERIENCE: 6 years
+EDUCATION: M.Tech CSE, IIT Bombay
+SKILLS: Python, Machine Learning, PyTorch, TensorFlow, FastAPI, Docker, AWS
+
+PROFESSIONAL SUMMARY:
+ML Specialist building deep learning recommendation engines serving 50M requests daily.
+
+WORK EXPERIENCE:
+Senior Role (2021 - Present):
+- Core contributions and architectural execution across Python, Machine Learning, PyTorch.
+Previous Role (2018 - 2021):
+- Built high-performance software modules and collaborated in Agile squads.
+
+CERTIFICATIONS & AWARDS:
+- Certified Solutions Professional

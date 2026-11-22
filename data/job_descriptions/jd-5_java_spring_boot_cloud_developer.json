@@ -1,0 +1,12 @@
+{
+  "id": "jd-5",
+  "title": "Java Spring Boot Cloud Developer",
+  "must_have_skills": [
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "Docker"
+  ],
+  "min_experience_years": 4,
+  "description": "Exciting role for a Java Backend Engineer with 4+ years experience in Java and Spring Boot. You will build and scale enterprise microservices, integrate message brokers, and deploy containerized services with Docker."
+}
